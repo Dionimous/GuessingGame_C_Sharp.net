@@ -1,0 +1,5 @@
+/Users/geniusbar/RiderProjects/GuessingGame/GuessingGame/bin/Debug/GuessingGame.exe
+/Users/geniusbar/RiderProjects/GuessingGame/GuessingGame/bin/Debug/GuessingGame.pdb
+/Users/geniusbar/RiderProjects/GuessingGame/GuessingGame/obj/Debug/GuessingGame.csprojAssemblyReference.cache
+/Users/geniusbar/RiderProjects/GuessingGame/GuessingGame/obj/Debug/GuessingGame.exe
+/Users/geniusbar/RiderProjects/GuessingGame/GuessingGame/obj/Debug/GuessingGame.pdb
